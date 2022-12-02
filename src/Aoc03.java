@@ -1,3 +1,4 @@
+public class Aoc03 {
     public static void main(String[] args) {
         String input = Utils.getInput("inputs/aocXInput.txt");
 
@@ -6,7 +7,7 @@
 
     }
 
-   private static void firstPart(String input) {
+    private static void firstPart(String input) {
 
 
 
@@ -17,5 +18,4 @@
 
 
     }
-
-
+}
